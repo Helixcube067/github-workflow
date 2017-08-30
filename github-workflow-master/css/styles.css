@@ -1,0 +1,41 @@
+header {
+	background-color: grey;
+}
+
+body {
+	background-color: lightblue;
+}
+
+#wrapper {
+	border: 1px solid black;
+	padding: 10px;
+	background-color: pink;
+}
+
+#leftStory {
+	float: left;
+}
+
+#rightStory {
+	float: right;
+	padding-left: 10px;
+	background-color: #69E52A;
+	width: 800px;
+	padding-bottom: 33px;
+}
+
+.testing {
+width: 600px;
+border: 3px solid black;
+border-collapse: collapse;
+clear: both;
+}
+
+.testing th, td{
+	border: 1px solid black;
+	padding: 3px;
+}
+footer {
+	text-align: center;
+	padding: 10px;
+}
